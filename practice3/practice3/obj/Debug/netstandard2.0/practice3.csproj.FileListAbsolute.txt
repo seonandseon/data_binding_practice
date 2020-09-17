@@ -1,0 +1,16 @@
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.csprojAssemblyReference.cache
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/ConverterPage.xaml.g.cs
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/RotationPage.xaml.g.cs
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.AssemblyInfoInputs.cache
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.AssemblyInfo.cs
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.csproj.CoreCompileInputs.cache
+/Users/bibilim/Projects/practice3/practice3/bin/Debug/netstandard2.0/practice3.deps.json
+/Users/bibilim/Projects/practice3/practice3/bin/Debug/netstandard2.0/practice3.dll
+/Users/bibilim/Projects/practice3/practice3/bin/Debug/netstandard2.0/ref/practice3.dll
+/Users/bibilim/Projects/practice3/practice3/bin/Debug/netstandard2.0/practice3.pdb
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.dll
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/ref/practice3.dll
+/Users/bibilim/Projects/practice3/practice3/obj/Debug/netstandard2.0/practice3.pdb

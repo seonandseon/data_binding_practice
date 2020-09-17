@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{F70E482A-D585-49C5-ACA9-51EFE435ADAB}|Default">
+  <MonoDevelop.Ide.ItemProperties.practice3.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice3/ConverterPage.xaml">
+    <Files>
+      <File FileName="practice3/MainPage.xaml" Line="8" Column="14" />
+      <File FileName="practice3/RotationPage.xaml" Line="13" Column="41" />
+      <File FileName="practice3/RotationPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="practice3/ConverterPage.xaml" Line="28" Column="43" />
+      <File FileName="practice3/ConverterPage.xaml.cs" Line="13" Column="10" />
+      <File FileName="practice3/Converter/IntToBooleanConverter.cs" Line="17" Column="48" />
+      <File FileName="practice3/Converter/IntToColorConverter.cs" Line="26" Column="1" />
+      <File FileName="practice3/MainPage.xaml.cs" Line="12" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice3" expanded="True">
+            <Node name="practice3" expanded="True">
+              <Node name="Converter" expanded="True" />
+              <Node name="ConverterPage.xaml" expanded="True" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="RotationPage.xaml" expanded="True" />
+            </Node>
+            <Node name="practice3.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="mipmap-anydpi-v26" expanded="True" />
+                <Node name="mipmap-hdpi" expanded="True" />
+                <Node name="mipmap-mdpi" expanded="True" />
+                <Node name="mipmap-xhdpi" expanded="True" />
+                <Node name="mipmap-xxhdpi" expanded="True" />
+                <Node name="mipmap-xxxhdpi" expanded="True" />
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.practice3.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

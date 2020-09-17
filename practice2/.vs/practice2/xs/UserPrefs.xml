@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{7BFC0515-06CB-40DF-BFA9-8277CFF1D66A}|Default">
+  <MonoDevelop.Ide.ItemProperties.practice2.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice2/MainPage.xaml">
+    <Files>
+      <File FileName="practice2/MainPage.xaml" Line="9" Column="53" />
+      <File FileName="practice2.Android/Properties/AssemblyInfo.cs" Line="27" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice2" expanded="True">
+            <Node name="practice2" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="practice2.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="mipmap-anydpi-v26" expanded="True" />
+                <Node name="mipmap-hdpi" expanded="True" />
+                <Node name="mipmap-mdpi" expanded="True" selected="True" />
+              </Node>
+            </Node>
+            <Node name="practice2.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="practice.MainPage">
+    <StackLayout>
+        <Label Text="Data Binding Practice" />
+
+        <Label Text="Mode : one way(from source to target)" />
+        <Label Text="{Binding number1, Mode=OneWay}" />
+        <Button Text="Click" Clicked="Button_Clicked_1"/>
+
+        <Label Text="Mode : two way" />
+        <Label Text="{Binding number2, Mode=TwoWay}" />
+        <Button Text="Click" Clicked="Button_Clicked_2"/>
+
+        <Label Text="Mode : one way to source(from target)" />
+        <Label Text="{Binding number3, Mode=OneWayToSource}" />
+        <Button Text="Click" Clicked="Button_Clicked_3"/>
+
+    </StackLayout>
+</ContentPage>

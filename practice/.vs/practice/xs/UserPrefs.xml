@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DF94D28B-7144-45A8-853A-1711E5F2F910}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice/MainPage.xaml">
+    <Files>
+      <File FileName="practice/MainPage.xaml" Line="19" Column="15" />
+      <File FileName="practice/MainPage.xaml.cs" />
+      <File FileName="practice/ModelView.cs" />
+      <File FileName="practice/AssemblyInfo.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice" expanded="True">
+            <Node name="practice" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.practice.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

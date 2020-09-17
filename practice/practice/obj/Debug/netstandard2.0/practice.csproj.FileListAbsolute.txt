@@ -1,0 +1,14 @@
+/Users/bibilim/Projects/practice/practice/bin/Debug/netstandard2.0/practice.deps.json
+/Users/bibilim/Projects/practice/practice/bin/Debug/netstandard2.0/practice.dll
+/Users/bibilim/Projects/practice/practice/bin/Debug/netstandard2.0/ref/practice.dll
+/Users/bibilim/Projects/practice/practice/bin/Debug/netstandard2.0/practice.pdb
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.csprojAssemblyReference.cache
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.AssemblyInfoInputs.cache
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.AssemblyInfo.cs
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.csproj.CoreCompileInputs.cache
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.dll
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/ref/practice.dll
+/Users/bibilim/Projects/practice/practice/obj/Debug/netstandard2.0/practice.pdb
