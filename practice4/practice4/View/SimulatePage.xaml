@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practice4.View.SimulatePage"
+             xmlns:local="clr-namespace:practice4.ViewModel"
+             Title="Simulate">
+   <StackLayout>
+       <Label Text="Async Command with CanExecute Practice"
+              FontAttributes="Bold"/>
+
+       <Button Text="Simulate 5 Second Download"
+               HorizontalOptions="Center"
+               Command="{Binding SimulateDownloadCommand}" />
+
+       <StackLayout Orientation="Horizontal">
+           <Label Text="Result : "/>
+           <Label Text="{Binding simulateDownloadResult}" />
+       </StackLayout>
+   </StackLayout>
+
+    <ContentPage.BindingContext>
+        <local:SimulateViewModel />
+    </ContentPage.BindingContext>
+</ContentPage>

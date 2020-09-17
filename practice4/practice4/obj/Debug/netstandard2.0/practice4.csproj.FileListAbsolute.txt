@@ -1,0 +1,16 @@
+/Users/bibilim/Projects/practice4/practice4/bin/Debug/netstandard2.0/practice4.deps.json
+/Users/bibilim/Projects/practice4/practice4/bin/Debug/netstandard2.0/practice4.dll
+/Users/bibilim/Projects/practice4/practice4/bin/Debug/netstandard2.0/ref/practice4.dll
+/Users/bibilim/Projects/practice4/practice4/bin/Debug/netstandard2.0/practice4.pdb
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/View/CommandPage.xaml.g.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/View/ParameterPage.xaml.g.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/View/SimulatePage.xaml.g.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/practice4.AssemblyInfoInputs.cache
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/practice4.AssemblyInfo.cs
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/practice4.csproj.CoreCompileInputs.cache
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/practice4.dll
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/ref/practice4.dll
+/Users/bibilim/Projects/practice4/practice4/obj/Debug/netstandard2.0/practice4.pdb

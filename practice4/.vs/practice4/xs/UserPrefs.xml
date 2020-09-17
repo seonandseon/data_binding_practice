@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{0DE1DB97-F137-4942-AD11-2F1884A365D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practice4/ViewModel/SimulateViewModel.cs">
+    <Files>
+      <File FileName="practice4/MainPage.xaml" Line="7" Column="28" />
+      <File FileName="practice4/MainPage.xaml.cs" Line="19" Column="1" />
+      <File FileName="practice4/View/CommandPage.xaml" Line="30" Column="34" />
+      <File FileName="practice4/View/CommandPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="practice4/View/SimulatePage.xaml" Line="17" Column="17" />
+      <File FileName="practice4/View/SimulatePage.xaml.cs" Line="12" Column="13" />
+      <File FileName="practice4/ViewModel/CommandViewModel.cs" Line="18" Column="44" />
+      <File FileName="practice4/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="practice4/View/ParameterPage.xaml" Line="5" Column="61" />
+      <File FileName="practice4/View/ParameterPage.xaml.cs" Line="12" Column="17" />
+      <File FileName="practice4/ViewModel/ParameterViewModel.cs" Line="36" Column="10" />
+      <File FileName="practice4/ViewModel/SimulateViewModel.cs" Line="58" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practice4" expanded="True">
+            <Node name="practice4" expanded="True">
+              <Node name="View" expanded="True">
+                <Node name="CommandPage.xaml" expanded="True" />
+                <Node name="ParameterPage.xaml" expanded="True" />
+                <Node name="SimulatePage.xaml" expanded="True" />
+              </Node>
+              <Node name="ViewModel" expanded="True">
+                <Node name="SimulateViewModel.cs" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.practice4.Android PreferredExecutionTarget="Android.Pixel_2_API_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

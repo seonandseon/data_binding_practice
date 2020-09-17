@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practice4.View.ParameterPage"
+             xmlns:local="clr-namespace:practice4.ViewModel"
+             Title="Parameter">
+    <StackLayout>
+        <Label Text="Command with Parameter Practice"
+               FontAttributes="Bold"/>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Enter number : " />
+            <Entry x:Name="entry" Text="100" WidthRequest="50" />
+        </StackLayout>
+
+        <Button Text="Calculate Square Root"
+                Command="{Binding SquareRootParameterCommand}"
+                CommandParameter="{Binding Source={x:Reference entry}, Path=Text}"
+                HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Square root =" />
+	        <Label Text="{Binding result}" />
+        </StackLayout>
+    </StackLayout>
+
+
+     <ContentPage.BindingContext>
+        <local:ParameterViewModel />
+    </ContentPage.BindingContext>
+</ContentPage>

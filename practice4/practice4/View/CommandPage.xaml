@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="practice4.View.CommandPage"
+             xmlns:local="clr-namespace:practice4.ViewModel"
+             Title="Command">
+    <StackLayout>
+        <Label Text="Command Practice"
+               FontAttributes="Bold" />
+
+        <StackLayout Orientation="Horizontal">
+             <Label Text="Enter number : "/>
+             <Entry Text="{Binding num, Mode=TwoWay}"
+                    WidthRequest="50" />
+        </StackLayout>
+
+        <Button Text="Calculate Square Root"
+                Command="{Binding SquareRootCommand}"
+                HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Square Root = " />
+            <Label Text="{Binding result}" />
+        </StackLayout>
+
+    </StackLayout>
+
+    <ContentPage.BindingContext>
+        <local:CommandViewModel />
+    </ContentPage.BindingContext>
+
+</ContentPage>
